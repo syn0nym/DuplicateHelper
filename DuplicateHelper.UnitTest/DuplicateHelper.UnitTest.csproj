@@ -99,6 +99,9 @@
     <Content Include="TestDirectory\SubDirectory\Text_B.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="TestDirectory\SubDirectory\Text_C.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="TestDirectory\Text_A.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
