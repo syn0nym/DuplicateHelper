@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateHelper", "DuplicateHelper\DuplicateHelper.csproj", "{FB3D4289-A4BA-400A-B4AD-283464632EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleProject", "SampleProject\SampleProject.csproj", "{A802BC2F-BFA6-4AB1-AAE1-51C6F5FE6E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateHelper.UnitTest", "DuplicateHelper.UnitTest\DuplicateHelper.UnitTest.csproj", "{1E8A8392-39C6-477C-A79B-9EB2296D34AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3D4289-A4BA-400A-B4AD-283464632EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3D4289-A4BA-400A-B4AD-283464632EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3D4289-A4BA-400A-B4AD-283464632EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3D4289-A4BA-400A-B4AD-283464632EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A802BC2F-BFA6-4AB1-AAE1-51C6F5FE6E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A802BC2F-BFA6-4AB1-AAE1-51C6F5FE6E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A802BC2F-BFA6-4AB1-AAE1-51C6F5FE6E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A802BC2F-BFA6-4AB1-AAE1-51C6F5FE6E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8A8392-39C6-477C-A79B-9EB2296D34AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8A8392-39C6-477C-A79B-9EB2296D34AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8A8392-39C6-477C-A79B-9EB2296D34AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8A8392-39C6-477C-A79B-9EB2296D34AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
